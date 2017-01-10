@@ -1,0 +1,29 @@
+{
+  "name": "ng-routesandfactories",
+  "version": "1.0.0",
+  "description": "ng-routesandfactories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamakyework/ng-routesandfactories.git"
+  },
+  "keywords": [
+    "ng-routesandfactories"
+  ],
+  "author": "andy and john",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamakyework/ng-routesandfactories/issues"
+  },
+  "homepage": "https://github.com/jamakyework/ng-routesandfactories#readme",
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-route": "^1.6.1",
+    "bootstrap": "^3.3.7",
+    "express": "^4.14.0"
+  }
+}
