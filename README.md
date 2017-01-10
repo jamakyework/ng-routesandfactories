@@ -36,6 +36,7 @@ Use ng-show, ng-hide, ng-if, or ng-animate to add some creative, dynamic element
 ## Pro Mode
 Make the whole experience responsive with media queries or by using a library such as Skeleton or the built-in CSS3 option: Flexbox.
 =====================================================================================================================
+Create .gitignore
 
 ##Technologies
 Express
