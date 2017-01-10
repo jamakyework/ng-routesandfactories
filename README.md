@@ -60,9 +60,9 @@ app.js
 [] Display a statement about many high fives the current character has received as a fraction of how many high fives have been given to all characters.
 
 ##Logic
-[] When clicked, generate a random number to compare against the character's high-five skill.
-[] Randomly generate a high-five skill for each character
-[] user clicks to give the character a high-five, randomly generate the quality of that high five.  If the high-five quality => character's high-five skill, the high five is successfull.
-[] If a highfive is successful, undate the highfive count.
+[X] When clicked, generate a random number to compare against the character's high-five skill.
+[X] Randomly generate a high-five skill for each character
+[X] user clicks to give the character a high-five, randomly generate the quality of that high five.  If the high-five quality => character's high-five skill, the high five is successfull.
+[X] If a highfive is successful, undate the highfive count.
 [] You will need to find a way to share the total number of high fives across your controllers.
 Make only one random number generator in your application instead of writing the random number generator in two different places for each controller (for the skill and the quality).
